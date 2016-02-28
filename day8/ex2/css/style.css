@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Bell;
+    src: url(../fonts/BELL.TTF);
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family; 'Bell';
+}

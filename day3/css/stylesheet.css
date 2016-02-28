@@ -1,0 +1,31 @@
+td {
+    width: 500px;
+}
+
+img {
+    width:100%;
+}
+
+#right-box {
+    text-align: center;
+    background-color: rgb(240,240,240);
+}
+
+#berries {
+    color:#252b3b;
+    font-size:1.9em;
+}
+
+#description {
+    color:#555;
+    padding-bottom:20px;
+}
+
+a {
+    border-style: solid;
+    border-color: #555;
+    font-weight: bold;
+    color: #252b3b;
+    padding: 5px;
+    text-decoration: none;
+}

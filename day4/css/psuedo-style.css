@@ -1,0 +1,11 @@
+a {
+    color:red;
+    font-size:1em;
+}
+
+a:hover {
+    color:black;
+    text-decoration:line-through;
+    font-style: italic;
+    font-size:2em;
+}

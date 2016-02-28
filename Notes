@@ -1,0 +1,5 @@
+Container elements
+    div, nav, header, table(tr,td),iframe, footer, body
+Content elements
+    ol,li,ul,p,a,img
+<a> is an anchor, requires content and attribute

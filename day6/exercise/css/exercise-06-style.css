@@ -1,0 +1,51 @@
+/*Add CSS rules*/
+
+body {
+    margin: auto; 
+    font-family: sans-serif; 
+}
+
+main {
+    margin:auto;
+/*    background: lightblue;*/
+}
+
+article {
+    margin:0px auto;
+    font-size:.8em;
+}
+
+.transpo {
+    margin: 10px;
+    float: left;
+    width: 360px;
+}
+
+p {
+    margin-bottom:30px;
+}
+
+p, a {
+    color:darkgray;
+    text-align: left;
+}
+
+a {
+    padding:4px;
+    border: solid .5px gray;
+    border-right:solid darkred 4px;
+    text-decoration: none;
+    font-weight: bolder;
+    text-transform:uppercase;
+}
+
+a:hover {
+    text-decoration:line-through;
+}
+
+.clear-fix:after {
+    content:'';
+    display:block;
+    clear:both;
+    
+}

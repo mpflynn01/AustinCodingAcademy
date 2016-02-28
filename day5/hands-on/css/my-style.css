@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    padding:5px;
+}
+
+nav {
+    background-color: black;
+    height:50px;
+    padding-bottom: 10px;
+}
+
+main {
+    color: white;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+div {
+    max-width:45%;
+    float:left;
+    padding-top:10px;
+}
+
+#green {
+    background:#55a747;
+}
+
+#black {
+    background: #313131;
+}
+
+.button {
+    float:right;
+    border: white solid 2px;
+}
