@@ -1,0 +1,11 @@
+body {
+    width:100%;
+}
+
+main {
+    background-image: url(../img/photo-1423483786645-576de98dcbed.jpeg);
+    background:cover;
+/*    background-position:top;*/
+    width:100%;
+    padding:150px 20px;
+}
